@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-02-15T05:49:53.672958428-08:00
+    created: 2018-02-15T06:05:41.687450666-08:00
     description: A Helm chart for Kubernetes
-    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    digest: e9176d49625d4f208e234320bec24f1a54ea889e848ef5985646662fabc66b02
     name: loyaltylevelchart
     urls:
-    - https://samplestocktradingorganization.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
-    version: 0.1.0
+    - https://samplestocktradingorganization.github.io/mycharts/loyaltylevelchart-0.1.1.tgz
+    version: 0.1.1
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-15T05:49:53.673271126-08:00
+    created: 2018-02-15T06:05:41.687722085-08:00
     description: A Helm chart for Kubernetes
     digest: 28c621fdd207e6123aa26618218a5585b7bdde0211fbd11b6cea5c458ebdce37
     name: notificationchart
@@ -20,29 +20,29 @@ entries:
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-02-15T05:49:53.67361134-08:00
+    created: 2018-02-15T06:05:41.688102155-08:00
     description: A Helm chart for Kubernetes
-    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    digest: 05130e39682f70706439a3aba9cd25b9433bb6b3caab2e9eb8382172dd1b47d3
     name: portfoliochart
     urls:
-    - https://samplestocktradingorganization.github.io/mycharts/portfoliochart-0.1.0.tgz
-    version: 0.1.0
+    - https://samplestocktradingorganization.github.io/mycharts/portfoliochart-0.1.1.tgz
+    version: 0.1.1
   stockquotechart:
   - apiVersion: v1
-    created: 2018-02-15T05:49:53.67382793-08:00
+    created: 2018-02-15T06:05:41.688307416-08:00
     description: A Helm chart for Kubernetes
-    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    digest: 63080c7570ced7f4c088106ed12994a73ce31ed50425955b30dcacf1fd4ef4c4
     name: stockquotechart
     urls:
-    - https://samplestocktradingorganization.github.io/mycharts/stockquotechart-0.1.0.tgz
-    version: 0.1.0
+    - https://samplestocktradingorganization.github.io/mycharts/stockquotechart-0.1.1.tgz
+    version: 0.1.1
   traderchart:
   - apiVersion: v1
-    created: 2018-02-15T05:49:53.674384062-08:00
+    created: 2018-02-15T06:05:41.688805366-08:00
     description: A Helm chart for Kubernetes
-    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    digest: e9e5df69a7a88fa3965281a7988f45bd19dd26ba8ee3934d903e920df86ceba3
     name: traderchart
     urls:
-    - https://samplestocktradingorganization.github.io/mycharts/traderchart-0.1.0.tgz
-    version: 0.1.0
-generated: 2018-02-15T05:49:53.672603098-08:00
+    - https://samplestocktradingorganization.github.io/mycharts/traderchart-0.1.1.tgz
+    version: 0.1.1
+generated: 2018-02-15T06:05:41.687117607-08:00
